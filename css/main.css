@@ -1,0 +1,102 @@
+body {
+  font-size: 20px;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://ss1.bdstatic.com/lvoZeXSm1A5BphGlnYG/skin/44.jpg');
+  background-size: cover;
+}
+.z-main {
+  width: 1200px;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .z-main {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .z-main {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .z-main {
+    width: 1170px;
+  }
+}
+.z-clearfix::before,
+.z-clearfix::after {
+  display: block;
+  clear: both;
+  content: '';
+  height: 0;
+}
+.z-hide {
+  display: none;
+}
+.z-show {
+  display: block !important;
+}
+.z-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.z-main .z-folder-box {
+  background-image: linear-gradient(rgba(15, 25, 50, 0.3) 0, rgba(15, 25, 50, 0.3) 100%);
+  margin-left: 0;
+  margin-right: 0;
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer */
+  -webkit-user-select: none;
+  /* Chrome,Safari,and Opera */
+}
+.z-main .z-folder {
+  position: relative;
+  float: left;
+}
+.z-main .z-folder-title {
+  height: 3rem;
+  padding: 0 0.75rem;
+  line-height: 3rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+.z-main .z-folder-title img {
+  display: inline-block;
+  height: 1rem;
+  padding-right: 0.5rem;
+  vertical-align: middle;
+}
+.z-main .z-link-box {
+  position: absolute;
+  display: none;
+  top: 3rem;
+  left: 0.75rem;
+  min-width: 15rem;
+  max-width: 30rem;
+  max-height: 10rem;
+  padding: 0.5rem 0.75rem;
+  background-color: #ddd;
+  overflow-y: auto;
+  z-index: 99;
+}
+.z-main .z-link-box p {
+  height: 1.5rem;
+  line-height: 1.5rem;
+  font-size: 0.8rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.z-main .z-link-box p img {
+  position: relative;
+  display: inline-block;
+  height: 1rem;
+  vertical-align: middle;
+  float: left;
+  top: 0.25rem;
+  padding-right: 0.25rem;
+}

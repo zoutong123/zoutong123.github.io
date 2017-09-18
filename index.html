@@ -2,10 +2,37 @@
 <html>
 <head>
     <title>hello world</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="邹通的笔记Blog">
+    <meta name="keywords" content="邹通,blog,note">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-   <ul>
-        <li><a href="https://www.baidu.com">百度</a></li>
-    </ul>
+    <div class="z-main">
+        <ul class="z-folder-box z-clearfix" id="marksBox">
+
+        </ul>
+    </div>
 </body>
+<script type="text/html" id="tpl-bookmarks">
+    {{each data as value index}}
+        <li class="z-folder">
+            <span class="z-folder-title">
+                <img src="image/{{value.icon}}" alt="">{{value.marktype}}
+            </span>
+            <div class="z-link-box">
+                {{each value.data as list index}}
+                <p><a href="{{list.url}}" target="_blank"><img src="image/{{list.icon}}" alt="">{{list.text}}</a></p>
+                {{/each}}
+            </div>
+        </li>
+    {{/each}}
+</script>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/template.js"></script>
+<script type="text/javascript" src="js/data.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
 </html>
