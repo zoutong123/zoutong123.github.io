@@ -21,11 +21,11 @@
     {{each data as value index}}
         <li class="z-folder">
             <span class="z-folder-title">
-                <img src="image/{{value.icon}}" alt="">{{value.marktype}}
+                <img src="{{value.icon}}" alt="">{{value.marktype}}
             </span>
             <div class="z-link-box">
                 {{each value.data as list index}}
-                <p><a href="{{list.url}}" target="_blank"><img src="image/{{list.icon}}" alt="">{{list.text}}</a></p>
+                <p><a href="{{list.url}}" target="_blank"><img src="{{list.icon}}" alt="">{{list.text}}</a></p>
                 {{/each}}
             </div>
         </li>
