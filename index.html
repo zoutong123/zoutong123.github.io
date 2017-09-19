@@ -7,12 +7,16 @@
     <meta name="description" content="云追月Blog">
     <meta name="keywords" content="云追月,blog,note">
     <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <link rel="icon" type="image/jpg" href="image/avatar.jpg">
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <div class="z-main">
         <ul class="z-folder-box z-clearfix" id="marksBox">
+
+        </ul>
+        <ul class="z-note-box" id="notelinkBox">
 
         </ul>
     </div>
@@ -31,8 +35,14 @@
         </li>
     {{/each}}
 </script>
+<script type="text/html" id="tpl-notelink">
+    {{each data as value index}}
+        <li class="z-link"><a href="{{value.url}}" target="_blank">{{value.text}}</a></li>
+    {{/each}}
+</script>
 <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="js/template.js"></script>
-<script type="text/javascript" src="js/data.js"></script>
+<script type="text/javascript" src="js/marks.js"></script>
+<script type="text/javascript" src="js/noteLink.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
 </html>

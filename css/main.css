@@ -100,3 +100,14 @@ body {
   top: 0.25rem;
   padding-right: 0.25rem;
 }
+.z-main .z-note-box {
+  padding: 0.5rem;
+}
+.z-main .z-note-box a {
+  color: #444;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.z-main .z-note-box a:hover {
+  color: #398bfb;
+}

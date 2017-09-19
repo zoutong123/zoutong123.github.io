@@ -1,6 +1,7 @@
 (function(){
     var Index = function(){
         this.marks = Marks;
+        this.notelink = NoteObj;
         this.init();
     };
     Index.prototype = {
@@ -11,6 +12,7 @@
         dealMarks: function(){
             var self = this;
             $('#marksBox').html(template('tpl-bookmarks', {data: self.marks}));
+            $('#notelinkBox').html(template('tpl-notelink', {data: self.notelink}));
         },
         toggleType: function(){
             $('.z-folder-title').on('mouseover', function(){

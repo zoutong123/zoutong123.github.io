@@ -38,6 +38,16 @@ const Marks = [
                 "text": "base64转码",
                 "url": "http://imgbase64.duoshitong.com/",
             },
+            {
+                "icon": "http://static.clewm.net/static/images/favicon.ico",
+                "text": "草料二维码",
+                "url": "https://cli.im/deqr/",
+            },
+            {
+                "icon": "image/google.png",
+                "text": "谷歌翻译",
+                "url": "https://translate.google.cn/",
+            },
         ]
     },
     {
