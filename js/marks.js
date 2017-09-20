@@ -19,6 +19,11 @@ const Marks = [
                 "url": "https://mart.coding.net/",
             },
             {
+                "icon": "https://developer.cdn.mozilla.net/static/img/favicon72.deefe20a0360.png",
+                "text": "Web 技术文档",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web",
+            },
+            {
                 "icon": "image/bootstrap.png",
                 "text": "Bootstrap中文网",
                 "url": "http://www.bootcss.com/",
@@ -132,6 +137,22 @@ const Marks = [
                 "icon": "http://www.muse-ui.org/favicon.ico",
                 "text": "Muse-UI",
                 "url": "http://www.muse-ui.org/",
+            },
+        ]
+    },
+    {
+        "marktype": "node",
+        "icon": "image/folder.png",
+        "data": [
+            {
+                "icon": "http://nodejs.cn/static/favicon.png",
+                "text": "Node.js中文网",
+                "url": "http://nodejs.cn/",
+            },
+            {
+                "icon": "https://o4j806krb.qnssl.com/public/images/cnode_icon_32.png",
+                "text": "CNode:Node.js社区",
+                "url": "https://cnodejs.org/",
             },
         ]
     },
