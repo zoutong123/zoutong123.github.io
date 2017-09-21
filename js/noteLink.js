@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "闭包讲解",
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures"
+    },
+    {
         "text": "Vue双向绑定实现原理",
         "url": "http://www.cnblogs.com/kidney/p/6052935.html?utm_source=gold_browser_extension"
     },
