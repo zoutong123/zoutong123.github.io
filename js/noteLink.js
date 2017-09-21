@@ -1,5 +1,13 @@
 const NoteObj = [
     {
+        "text": "Webpack傻瓜式指南",
+        "url": "https://zhuanlan.zhihu.com/p/20367175"
+    },
+    {
+        "text": "Windows 平台安装 MongoDB",
+        "url": "http://www.runoob.com/mongodb/mongodb-window-install.html"
+    },
+    {
         "text": "闭包讲解",
         "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures"
     },
