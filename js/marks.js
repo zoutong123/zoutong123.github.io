@@ -112,6 +112,11 @@ const Marks = [
                 "text": "Atom 中文社区",
                 "url": "https://atom-china.org/",
             },
+            {
+                "icon": "https://atom.io/favicon.ico",
+                "text": "Packages make Atom do amazing things.",
+                "url": "https://atom.io/packages",
+            },
         ]
     },
     {
