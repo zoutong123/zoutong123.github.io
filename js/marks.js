@@ -90,6 +90,11 @@ const Marks = [
                 "text": "ECMAScript 6 入门 - ECMAScript 6入门",
                 "url": "http://es6.ruanyifeng.com/",
             },
+            {
+                "icon": "https://webpack.bootcss.com/assets/favicon.ico",
+                "text": "webpack文档",
+                "url": "https://webpack.bootcss.com/",
+            },
         ]
     },
     {
