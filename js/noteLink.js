@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "消息上下滚动demo",
+        "url": "https://github.com/zoutong123/note/blob/master/html/%E6%B6%88%E6%81%AF%E4%B8%8A%E4%B8%8B%E6%BB%9A%E5%8A%A8.md"
+    },
+    {
         "text": "Webpack傻瓜式指南",
         "url": "https://zhuanlan.zhihu.com/p/20367175"
     },
