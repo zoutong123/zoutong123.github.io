@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "动态修改字体大小",
+        "url": "https://github.com/zoutong123/note/blob/master/html/%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F.md"
+    },
+    {
         "text": "IOS App 上架审核被拒",
         "url": "http://blog.csdn.net/ws1352864983/article/details/51240831"
     },
