@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "基于jq签名插件Signature",
+        "url": "https://plugins.jquery.com/kbw.signature/"
+    },
+    {
         "text": "基于vue-cli快速构建",
         "url": "http://www.jianshu.com/p/2769efeaa10a"
     },
