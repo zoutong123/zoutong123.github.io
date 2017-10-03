@@ -14,6 +14,11 @@ const Marks = [
                 "url": "https://github.com/",
             },
             {
+                "icon": "https://gitee.com/assets/favicon-f6562a1bc6a110e32367f6e0cab4ba89.ico",
+                "text": "码云",
+                "url": "https://gitee.com/",
+            },
+            {
                 "icon": "https://mart.coding.net/favicon.ico",
                 "text": "码市 - 基于云技术的软件外包服务平台",
                 "url": "https://mart.coding.net/",
