@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "cssreset官网",
+        "url": "http://cssreset.com/"
+    },
+    {
         "text": "chrome jsonView插件安装",
         "url": "http://www.cnblogs.com/cssfirefly/p/4368020.html"
     },
