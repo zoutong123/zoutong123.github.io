@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "字体进行抗锯齿渲染(css3属性-webkit-font-smoothing)",
+        "url": "http://www.cnblogs.com/moqiutao/archive/2016/03/18/5291881.html"
+    },
+    {
         "text": "基于jq签名插件Signature",
         "url": "https://plugins.jquery.com/kbw.signature/"
     },
