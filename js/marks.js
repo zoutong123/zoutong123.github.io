@@ -111,6 +111,11 @@ const Marks = [
                 "text": "快速入门 | Less.js 中文文档",
                 "url": "http://less.bootcss.com/",
             },
+            {
+                "icon": "https://icomoon.io/img/icon96.png",
+                "text": "icoMoon",
+                "url": "https://icomoon.io/",
+            },
         ]
     },
     {
