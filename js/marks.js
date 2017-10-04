@@ -174,6 +174,11 @@ const Marks = [
                 "text": "CNode:Node.js社区",
                 "url": "https://cnodejs.org/",
             },
+            {
+                "icon": "https://o4j806krb.qnssl.com/public/images/cnode_icon_32.png",
+                "text": "Express 4.x API 中文手册",
+                "url": "http://www.expressjs.com.cn/4x/api.html",
+            },
         ]
     },
 ];
