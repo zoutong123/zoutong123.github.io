@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "axios Example",
+        "url": "https://www.npmjs.com/package/axios"
+    },
+    {
         "text": "babel教程",
         "url": "http://www.ruanyifeng.com/blog/2016/01/babel.html"
     },
