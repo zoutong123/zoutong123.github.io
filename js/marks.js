@@ -116,6 +116,11 @@ const Marks = [
                 "text": "icoMoon",
                 "url": "https://icomoon.io/",
             },
+            {
+                "icon": "http://cssreset.com/favicon.png",
+                "text": "cssreset官网",
+                "url": "http://cssreset.com/",
+            },
         ]
     },
     {
