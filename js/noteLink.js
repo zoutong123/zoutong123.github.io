@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "基于 Vue 的直播播放器实战",
+        "url": "https://segmentfault.com/a/1190000007474673"
+    },
+    {
         "text": "<img>元素底部为何有空白？",
         "url": "https://www.zhihu.com/question/21558138"
     },
