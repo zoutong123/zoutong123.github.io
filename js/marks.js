@@ -100,6 +100,11 @@ const Marks = [
                 "text": "webpack文档",
                 "url": "https://webpack.bootcss.com/",
             },
+            {
+                "icon": "https://www.tslang.cn/assets/images/icons/favicon.ico",
+                "text": "TypeScript文档",
+                "url": "https://www.tslang.cn/docs/handbook/basic-types.html",
+            },
         ]
     },
     {
