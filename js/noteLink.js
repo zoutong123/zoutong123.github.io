@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "Vue Baidu Map",
+        "url": "https://dafrok.github.io/vue-baidu-map/#/zh/overlay/info-window"
+    },
+    {
         "text": "基于 Vue 的直播播放器实战",
         "url": "https://segmentfault.com/a/1190000007474673"
     },
