@@ -189,6 +189,11 @@ const Marks = [
                 "text": "Express 4.x API 中文手册",
                 "url": "http://www.expressjs.com.cn/4x/api.html",
             },
+            {
+                "icon": "https://dn-s7.qbox.me/@/coolie-book/static/res/37c353ab23b56bdebc1139f38429d6c0.ico",
+                "text": "coolie-前端构建工具与前端模块加载器组合的工程化解决方案。",
+                "url": "https://coolie.ydr.me/",
+            },
         ]
     },
 ];
