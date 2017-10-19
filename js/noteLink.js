@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "js只保留整数，向上取整，四舍五入，向下取整等函数",
+        "url": "http://blog.csdn.net/wd4java/article/details/50466633"
+    },
+     {
         "text": "Vue Baidu Map",
         "url": "https://dafrok.github.io/vue-baidu-map/#/zh/overlay/info-window"
     },
