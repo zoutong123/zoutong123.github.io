@@ -126,6 +126,11 @@ const Marks = [
                 "text": "cssreset官网",
                 "url": "http://cssreset.com/",
             },
+            {
+                "icon": "https://tinypng.com/images/favicon.ico",
+                "text": "TinyPNG官网",
+                "url": "https://tinypng.com/",
+            },
         ]
     },
     {
