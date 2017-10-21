@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "[App引擎] 【官方出品】iPhone X适配教程",
+        "url": "http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=72354&extra=page%3D1"
+    },
+    {
         "text": "js只保留整数，向上取整，四舍五入，向下取整等函数",
         "url": "http://blog.csdn.net/wd4java/article/details/50466633"
     },
