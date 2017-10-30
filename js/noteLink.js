@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "TypeScript体系调研报告",
+        "url": "http://mp.weixin.qq.com/s/n6wbLjtW9XbLebiEyPO4Ow"
+    },
+    {
         "text": "JavaScript 字符串转数字：陷阱",
         "url": "http://mp.weixin.qq.com/s/WP5PDYJhgW4h707N24sLEg"
     },
