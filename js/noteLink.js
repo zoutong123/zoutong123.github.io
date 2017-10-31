@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "入门webpack",
+        "url": "http://www.jianshu.com/p/42e11515c10f"
+    },
+    {
         "text": "TypeScript体系调研报告",
         "url": "http://mp.weixin.qq.com/s/n6wbLjtW9XbLebiEyPO4Ow"
     },
