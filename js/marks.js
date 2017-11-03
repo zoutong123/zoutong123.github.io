@@ -201,4 +201,15 @@ const Marks = [
             },
         ]
     },
+    {
+        "marktype": "大神博客",
+        "icon": "image/folder.png",
+        "data": [
+            {
+                "icon": "https://www.vue-js.com/public/images/vue.png",
+                "text": "胡小呆博客",
+                "url": "http://www.jzdlink.com/",
+            },
+        ]
+    },
 ];
