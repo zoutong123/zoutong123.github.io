@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "Vue.use源码分析",
+        "url": "https://www.cnblogs.com/dupd/p/6716386.html"
+    },
+    {
         "text": "给 Web 开发人员推荐的开源图形库 —— 2D/3D",
         "url": "http://m.devstore.cn/essay/essayInfo/9705.html"
     },
