@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "Wampserver 2.5 多站点配置方法",
+        "url": "http://blog.csdn.net/u014420383/article/details/47837411"
+    },
+    {
         "text": "Vue.use源码分析",
         "url": "https://www.cnblogs.com/dupd/p/6716386.html"
     },
