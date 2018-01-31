@@ -1,5 +1,9 @@
 const NoteObj = [
     {
+        "text": "Linux操作手册",
+        "url": "http://billie66.github.io/TLCL/book/"
+    },
+    {
         "text": "Wampserver 2.5 多站点配置方法",
         "url": "http://blog.csdn.net/u014420383/article/details/47837411"
     },
