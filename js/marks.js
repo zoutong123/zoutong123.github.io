@@ -173,6 +173,11 @@ const Marks = [
                 "text": "Muse-UI",
                 "url": "http://www.muse-ui.org/",
             },
+            {
+                "icon": "http://www.muse-ui.org/favicon.ico",
+                "text": "Vue相关开源项目库汇总(史上最全)",
+                "url": "https://www.jianshu.com/p/e37f4dde49a2",
+            },
         ]
     },
     {
